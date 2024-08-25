@@ -1,0 +1,17 @@
+.hinh{
+height: 200px;
+object-fit: cover;
+}
+.vd{
+    align-items: center;
+}
+.menu{
+    display: inline-block;
+    float: right;
+    color:black;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.menu:hover{
+    color: green;
+}
